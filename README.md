@@ -1,7 +1,8 @@
 
 # B3DM提取器
 
-这是一个用于提取 B3DM 文件内容的专用工具。OGC 3DTiles 使用 B3DM 文件来包装具有特定元数据结构的 gltf/glb 文件。该工具将提取 B3DM 的 gltf/glb 内容。
+- 这是一个用于提取 B3DM 文件内容的专用工具。OGC 3DTiles 使用 B3DM 文件来包装具有特定元数据结构的 gltf/glb 文件。该工具将提取 B3DM 的 gltf/glb 内容。
+- 配合[免费的 GLB 资产提取器](https://products.aspose.app/3d/zh-cn/extractor/glb)可提取b3dm文件中的gltf/glb文件的材质图片。
 
 ## 批量提取到所在目录
 
